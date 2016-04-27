@@ -1,0 +1,89 @@
+@CHARSET "UTF-8";
+
+body{
+	background-color:MintCream;
+}
+
+div .inner{
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+	background-color: LightBlue;
+	border-radius: 30px;
+	width: 300px;
+	height: 250px;
+	padding: 30px
+}
+
+p{
+	font-family: "メイリオ","Meiryo";
+	text-align:center;
+}
+
+h1{
+	font-family: "メイリオ","Meiryo";
+	text-align:center;
+}
+
+a{
+	font-family: "メイリオ","Meiryo";
+	align:center;
+
+}
+
+form{
+	font-family: "メイリオ","Meiryo";
+	text-align:center;
+}
+
+<input[type=send]{
+	font-family: "メイリオ","Meiryo";
+}
+
+.mutter{
+	border:0;
+	padding:10px;
+	font-size:150%;
+	font-family: "メイリオ","Meiryo";
+	color:#aaa;
+	border:solid 1px #ccc;
+	margin:0 0 20px;
+	width:300px;
+}
+
+
+
+table {
+	border-collapse: collapse;
+	font-family: "メイリオ","Meiryo";
+	width: 50%;
+	align:center;
+	margin: 0 auto;
+	border-spacing: 0px 15px;
+	border: none;
+    font-size: 13px;
+    table-layout: fixed;
+	border-spacing: 0px 10px;
+
+}
+
+tr{
+}
+
+.name {
+	width:20%;
+	padding: 10px;
+	background: LightBlue;
+	color:#000000;
+
+}
+.text {
+	width:80%;
+	background-color: LightBlue;
+	color:#000000	;
+	padding: 10px;
+
+}
